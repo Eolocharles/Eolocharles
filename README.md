@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eolocharles
+## 👋 Hi, I’m @Eolocharles
 - 👀 I’m interested in technology in general
 - 🌱 I’m currently learning Java using spring boot, python end more.
 - 📫 eolocharles@gmail.com...
