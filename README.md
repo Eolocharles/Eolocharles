@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Éolo Charles
+## 👋 Hi, I’m Éolo Charles, CS student and jr software developer.
 <div align="center">
   <a href="https://github.com/Eolocharles">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eolocharles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
