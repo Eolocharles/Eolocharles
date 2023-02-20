@@ -36,7 +36,6 @@
    <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
-  <img align="right" alt="Eolo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/52092018?s=400&u=1437d5f337b1454cb458be30b6f74213688a1c47&v=4">
 </div>
   
  ##
