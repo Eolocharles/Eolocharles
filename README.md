@@ -18,6 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Eolocharles" height="150" alt="languages graph"  />
 </div>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eolocharles&theme=gotham)
+
 ##
 <div style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
