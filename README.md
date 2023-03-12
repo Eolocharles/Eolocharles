@@ -19,7 +19,7 @@
 </div>
 
 
-![Snake animation](https://github.com/Eolocharles/Eolocharles/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Eolocharles/Eolocharles/blob/output/github-contribution-grid-snake.svg)
 
 
 ##
