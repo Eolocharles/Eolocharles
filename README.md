@@ -20,7 +20,6 @@
 
 ![Snake animation](https://github.com/Eolocharles/Eolocharles/blob/output/github-contribution-grid-snake.gif)
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eolocharles&theme=gotham)
 
 ##
 <div style="display: inline_block"><br>
