@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eolocharles&label=Profile%20views&color=0e75b6&style=flat" alt="Eolocharles" /> </p>
 
-- 🔭 I’m currently completing a Bachelor's Degree in Computer Science at **Instituto Federal de Educação, Ciência e Tecnologia do Ceará.**
+- 🔭Recent Computer Science graduate at **Instituto Federal de Educação, Ciência e Tecnologia do Ceará** and technology enthusiast.
 
 - 🌱 I’m currently learning **Java, Javascript, Spring boot, Web development.**
 
